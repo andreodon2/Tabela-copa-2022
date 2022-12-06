@@ -15,6 +15,11 @@
     padding: 1rem;
 }
 
+.tabela {
+    column-count: 1;
+    width: 60%;
+}
+
 .tabela-grupo {
     margin: 0 auto;
     text-align: center;
